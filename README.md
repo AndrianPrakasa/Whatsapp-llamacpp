@@ -1,5 +1,5 @@
 # Whatsapp-llamacpp
-connect your local llm with whatsapp using javascript
+connect your local llm with whatsapp using javascript (nodejs)
 
-# build first llama cpp
-run llamacpp and then the fixbot.js
+1. build first llama cpp
+2. run llamacpp and then the fixbot.js
